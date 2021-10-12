@@ -1,0 +1,14 @@
+body{
+    background-color: #093b4c;
+    color: white;
+}
+h1{
+    font-size: 5em;
+}
+.square{
+    background-color: #1289b2;
+    height: 150px;
+    width: 150px;
+    font-size: 2em;
+}
+
