@@ -4,7 +4,7 @@ body{
 }
 .square{
     background-color: #1289b2;
-    //col-8 scaling always to col-7 throught gap-3
+    /*col-8 scaling always to col-7 throught gap-3*/
     width: calc(100%/ 8);
 }
 
