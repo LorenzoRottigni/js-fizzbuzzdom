@@ -10,7 +10,7 @@ for (let i = 1; i <= 100; i++) {
     //append loop index to square
     square.textContent = i;
     //set default styles of square
-    square.setAttribute('class', 'square d-flex justify-content-center align-items-center');
+    square.setAttribute('class', 'square ratio ratio-1x1 rounded d-flex justify-content-center align-items-center');
     //number divisible by 3
     if((i%3) === 0){
         square.textContent = "Fizz"
